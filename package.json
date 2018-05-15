@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/NodeCourse/github-resume-JulesAaelio/issues"
   },
-  "homepage": "https://github.com/NodeCourse/github-resume-JulesAaelio#readme"
+  "homepage": "https://github.com/NodeCourse/github-resume-JulesAaelio#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3",
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5"
+  }
 }
