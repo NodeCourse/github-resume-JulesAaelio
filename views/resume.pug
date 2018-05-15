@@ -1,5 +1,9 @@
 extends base.pug
+block links
+    link(rel="stylesheet", href="/css/resume.css")
 block content
-    img(src=user.avatar_url).responsive-img.circle
-    h1 #{user.login}
-    p #{user.bio}
+    div.banner
+    div.container.center
+        img(src=user.avatar_url).responsive-img.circle.avatar-img
+        h1 #{user.login}
+        p #{user.bio}

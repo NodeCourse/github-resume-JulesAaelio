@@ -1,0 +1,9 @@
+.banner {
+    background-color: blue;
+    height:200px;
+}
+.avatar-img{
+    margin-top: -100px;
+    width: 200px;
+    height: 200px;
+}
