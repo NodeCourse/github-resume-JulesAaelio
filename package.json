@@ -1,0 +1,19 @@
+{
+  "name": "github-resume-julesaaelio",
+  "version": "1.0.0",
+  "description": "The purpose of this application is to display a GitHub user's profile as a resume.\r The idea is to have a home page with an input allowing users to fill in their username.\r When the form is submitted, the user is redirected and his resume is displayed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeCourse/github-resume-JulesAaelio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeCourse/github-resume-JulesAaelio/issues"
+  },
+  "homepage": "https://github.com/NodeCourse/github-resume-JulesAaelio#readme"
+}
